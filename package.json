@@ -4,6 +4,7 @@
   "description": "DorebyLeTao wordpress theme",
   "main": "index.js",
   "dependencies": {
+    "grunt-express-server": "^0.5.4",
     "gulp": "^3.9.1"
   },
   "devDependencies": {
